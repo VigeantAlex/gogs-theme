@@ -1,5 +1,5 @@
 .following.bar.light {
-    background: #205081;
+    background: #35814d;
     color: #fff;
     border-bottom-color: #2e3d54;
 }
@@ -9,12 +9,12 @@
 }
 
 .following.bar .top.menu a.item:hover {
-    background-color: #296ca3;
+    background-color: #35814d;
     color: #f0f0f0;
 }
 
 .following.bar .top.menu a.item.active {
-    background-color: #296ca3;
+    background-color: #35814d;
     color: #f0f0f0;
 }
 
@@ -33,21 +33,21 @@
 
 .ui.menu .ui.dropdown .menu>.item:hover,
 .ui.menu .ui.dropdown .menu>.selected.item {
-    background-color: #3b73af !important;
+    background-color: #35814d !important;
     color: #fff !important;
     border-radius: 0;
 }
 
 .ui.top.attached.header,
 .ui.vertical.menu .header.item {
-	background-color: #3b73af;
+	background-color: #35814d;
     color: #fff;
     border: 0;
 }
 
 .ui.menu .active.item:hover,
 .ui.vertical.menu .active.item:hover {
-	background-color: #3b73af !important;
+	background-color: #35814d !important;
     color: #fff !important;
     border-radius: 0;
 }
@@ -56,13 +56,13 @@
 .ui.menu .dropdown.item:hover,
 .ui.menu .link.item:hover,
 .ui.menu a.item:hover {
-	background-color: #3b73af !important;
+	background-color: #35814d !important;
     color: #fff !important;
     border-radius: 0;
 }
 
 .ui.vertical.menu .active.item {
-	background-color: #3b73af !important;
+	background-color: #35814d !important;
     color: #fff !important;
     border-radius: 0;
 }
